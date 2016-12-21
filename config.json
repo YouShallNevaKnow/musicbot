@@ -1,10 +1,10 @@
 {
-  "token": "[TOKEN]",
-  "client_id": "[CLIENT ID]",
-  "prefix": "[PREFIX]",
-  "owner_id": "[OWNER ID]",
+  "token": "MjAxNTA0Njk0NTY3MzA1MjE3.Czx85g.FXDIkQQb1UnXF2X4m5daUFd5gA8",
+  "client_id": "201504425208971265",
+  "prefix": "[RAPE]",
+  "owner_id": "SaberTooth#4219",
   "status": "[STATUS]",
-  "youtube_api_key": "[YOUTUBE API KEY]",
-  "admins": ["Idhere", "Idhere"],
-  "server_port":"[PORT OF SERVER HERE]"
+  "youtube_api_key": "AIzaSyBCcujUePQaMU0ExB8Fjw1E0fHq_dvX8yw",
+  "admins": ["SaberTooth#4219", "Idhere"],
+  "server_port":"69"
 }
